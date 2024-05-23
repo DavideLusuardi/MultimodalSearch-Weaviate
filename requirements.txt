@@ -1,0 +1,3 @@
+weaviate-client
+google-generativeai
+openai
